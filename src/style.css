@@ -1,0 +1,12 @@
+.container{
+  background-color: red;
+  height:60vh;
+  width:70%;
+  
+}
+@media (max-width:450px){
+  .container{
+  height:80vh;
+  width:100%
+}
+}
